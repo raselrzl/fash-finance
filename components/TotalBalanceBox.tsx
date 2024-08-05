@@ -2,7 +2,7 @@
 import { formatAmount } from "@/lib/utils";
 import CountUp from 'react-countup/build/CountUp'
 import AnimatedCounter from "./AnimatedCounter";
-import DoudhnutChart from "./DoudhnutChart";
+import DoudhnutChart from "./DoughnutChart";
 
 
 const TotalBalanceBox = ({
